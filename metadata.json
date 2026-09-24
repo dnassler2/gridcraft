@@ -1,0 +1,7 @@
+{
+  "name": "GridCraft - Artist Grid Overlay & Drawing Reference Tool",
+  "description": "Superimpose customizable precision grids on images for drawing, sketching, and painting reference. Export high-resolution images with custom grid lines, labels, and adjustments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
